@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153703194520",
+    "project_id": "vymo-api",
+    "storage_bucket": "vymo-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153703194520:android:532df61d6774f7d0d455ed",
+        "android_client_info": {
+          "package_name": "com.dummy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153703194520-upe2jkvk2hsuvnvm1oiofgj43emticgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBKdvDrcgxzO79yMZzI7LXxd7Y_EJ3rf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153703194520-upe2jkvk2hsuvnvm1oiofgj43emticgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
